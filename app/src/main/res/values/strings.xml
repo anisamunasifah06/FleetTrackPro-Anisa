@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FleetTrackPro</string>
+    <string name="search_hint">Cari tracking, penerima, atau alamat</string>
+</resources>
